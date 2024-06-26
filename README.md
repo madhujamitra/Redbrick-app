@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org/) project created to retrieve and display
 
 ### Prerequisites
 
+
 Ensure you have Docker installed on your machine. You can download Docker from [here](https://www.docker.com/products/docker-desktop).
 
 ### Running the Project
